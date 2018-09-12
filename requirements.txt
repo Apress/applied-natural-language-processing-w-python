@@ -1,0 +1,15 @@
+keras
+theano
+numpy 
+pandas
+mnist
+matplotlib
+sklearn
+tensorflow
+pandas_datareader
+gensim 
+pyLDAvis
+nltk
+pdfminer
+string
+textblob
